@@ -1,5 +1,7 @@
 # Merry Christmas All Around the World
 
+![robert-linder-CApbjQPRl28-unsplash](https://github.com/Arpita-deb/How-to-say-merry-christmas-in-different-languages/assets/139372731/8b51b8f8-c93e-4829-87fc-040d039f4410)
+
 ## Introduction: 
 
 This repository contains the documentation of my dashboard creation process as a part of the Romanian Data Tribe Challenge for 2023. I’ve enriched the data from the challenge, which mainly covers European countries, with external data from other regions of the world. With this data, I’ve designed a dashboard that displays the different ways of saying Merry Christmas across the globe, using Tableau and Canva.
