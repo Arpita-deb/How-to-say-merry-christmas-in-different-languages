@@ -1,6 +1,6 @@
 # Merry Christmas All Around the World
 
-![robert-linder-CApbjQPRl28-unsplash](https://github.com/Arpita-deb/How-to-say-merry-christmas-in-different-languages/assets/139372731/8b51b8f8-c93e-4829-87fc-040d039f4410)
+![Data](https://github.com/Arpita-deb/How-to-say-merry-christmas-in-different-languages/assets/139372731/44903ac1-6b02-40db-bfd9-dad6645768a0)
 
 ## Introduction: 
 
@@ -56,6 +56,7 @@ The dashboard is created using Tableau and Canva. This contains a simple global 
 
 ## Resources:
 
+* [Link to the dashboard](https://public.tableau.com/views/HowToSayMerryChristmasInManyLanguages/MerryChristmas?:language=en-US&:display_count=n&:origin=viz_share_link)
 * [Image in the dashboard](https://unsplash.com/photos/two-elf-on-the-shelf-figurines-kFbSKhukfIQ)
 * [How to say Merry Christmas in different European Languages Original Dashboard by Jakub Marian](https://geographyeducation.org/2015/12/18/how-to-say-merry-christmas-in-different-european-languages/)
 * [How to Say Merry Christmas in 21 Different Languages](https://www.mondly.com/blog/how-to-say-merry-christmas-different-languages/)
