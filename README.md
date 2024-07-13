@@ -50,7 +50,7 @@ The competition is held by [Romanian Data Tribe Challenge for 2023](https://data
 
 ## About the Dashboard:
 
-![Screenshot (56)](https://github.com/Arpita-deb/How-to-say-merry-christmas-in-different-languages/assets/139372731/d91ce3b3-db77-463d-90fb-a90169b1dc83)
+![christmas](https://github.com/user-attachments/assets/774918f2-1ee1-4661-9834-41104553c539)
 
 The dashboard is created using Tableau and Canva. This contains a simple global map, with country name and how to say Merry Christmas in that country as Labels. When hovered over any country, the tool tip shows these information: country,continent, language and how to say Merry Christmas in that language. The dashboard contains a title as well as additional information regarding the challenge.
 
